@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Mail, Github, Linkedin, Twitter } from 'lucide-react';
+import { Mail, Github, Linkedin, Twitter, Instagram, InstagramIcon } from 'lucide-react';
 import './ContactSection.css';
 
 const ContactSection = () => {
@@ -8,22 +8,22 @@ const ContactSection = () => {
     {
       icon: <Github size={24} />,
       label: 'GitHub',
-      url: 'https://github.com',
+      url: 'https://github.com/bsbalaji7',
     },
     {
       icon: <Linkedin size={24} />,
       label: 'LinkedIn',
-      url: 'https://linkedin.com',
+      url: 'https://www.linkedin.com/in/bala-subramanian-709a37274/',
     },
     {
-      icon: <Twitter size={24} />,
-      label: 'Twitter',
-      url: 'https://twitter.com',
+      icon: <Instagram size={24} />,
+      label: 'Instagram',
+      url: 'https://www.instagram.com/itz_viss.__?igsh=NnkxbjNyZWZqdjgx',
     },
     {
       icon: <Mail size={24} />,
       label: 'Email',
-      url: 'mailto:bs@example.com',
+      url: 'mailto:bsbalaji101005@gmail.com?subject=Portfolio Contact&body=Hi BS, I want to connect with you.',
     },
   ];
 

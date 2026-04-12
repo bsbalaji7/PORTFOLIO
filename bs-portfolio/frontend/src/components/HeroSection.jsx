@@ -29,7 +29,8 @@ const HeroSection = () => {
           transition={{ duration: 1, delay: 0.6 }}
         >
           <h1 className="greeting-text">Hi There</h1>
-          <h2 className="name-text">I'm BS</h2>
+          <h2 className="name-text">I'm Balasubramanian</h2>
+          <h2 className="name-text-2">B  S</h2>
         </motion.div>
 
         {/* Right Text */}
@@ -42,7 +43,7 @@ const HeroSection = () => {
           <h3 className="role-text">Full Stack</h3>
           <h3 className="role-text">Developer</h3>
           <div className="project-counter">
-            <span className="counter-number">15+</span>
+            <span className="counter-number">5+</span>
             <span className="counter-label">Projects</span>
           </div>
         </motion.div>
