@@ -46,11 +46,11 @@ const AboutSection = () => {
               <p>Projects Completed</p>
             </div>
             <div className="highlight-item">
-              <h3>5+</h3>
+              <h3>1</h3>
               <p>Years Experience</p>
             </div>
             <div className="highlight-item">
-              <h3>10+</h3>
+              <h3>5+</h3>
               <p>Technologies Mastered</p>
             </div>
           </div>
