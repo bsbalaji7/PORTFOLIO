@@ -77,6 +77,7 @@ const ContactSection = () => {
               key={index}
               href={link.url}
               className="social-link"
+              target='_blank'
               variants={itemVariants}
               whileHover={{
                 scale: 1.1,
