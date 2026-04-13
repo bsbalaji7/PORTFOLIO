@@ -13,12 +13,12 @@ const SkillsSection = () => {
     {
       icon: <Server size={32} />,
       title: 'Backend Development',
-      technologies: ['Node.js', 'Python', 'FastAPI', 'REST APIs'],
+      technologies: ['Node.js', 'Java', 'Python', 'FastAPI', 'REST APIs'],
     },
     {
       icon: <Database size={32} />,
       title: 'Database',
-      technologies: ['MongoDB', 'PostgreSQL', 'MySQL', 'Redis'],
+      technologies: ['MongoDB', 'PostgreSQL', 'MySQL'],
     },
     {
       icon: <Layout size={32} />,
@@ -28,7 +28,7 @@ const SkillsSection = () => {
     {
       icon: <Zap size={32} />,
       title: 'Tools & DevOps',
-      technologies: ['Git', 'Docker', 'CI/CD', 'AWS'],
+      technologies: ['Git', 'Docker','AWS'],
     },
     {
       icon: <Smartphone size={32} />,
