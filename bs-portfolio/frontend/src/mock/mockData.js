@@ -25,7 +25,7 @@ export const mockProjects = [
     description: 'A modern React-based portfolio showcasing my full-stack development skills, projects, and UI expertise with advanced animations and responsive design.',
     technologies: ['React', 'Java Script', 'CSS', 'Animations'],
     github: 'https://github.com/bsbalaji7/PORTFOLIO',
-    demo: 'https://demo.example.com',
+    demo: 'https://bsdevengine-portfolio-69v4lgocs-bsbalaji101005-3337s-projects.vercel.app/',
   },
   {
     title: 'Marvel Website',
