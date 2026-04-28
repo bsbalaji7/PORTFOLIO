@@ -42,7 +42,7 @@ const AboutSection = () => {
 
           <div className="about-highlights">
             <div className="highlight-item">
-              <h3>15+</h3>
+              <h3>5+</h3>
               <p>Projects Completed</p>
             </div>
             <div className="highlight-item">
